@@ -25,7 +25,9 @@
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yogendra-singh-0b6499342/)
-Email yst36393@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogendra@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_yogendra_singh___)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogendra-singh)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yogendra-singh)
@@ -76,14 +78,6 @@ Email yst36393@gmail.com
 ---
 
 # 🚀 Featured Projects:
-
-### 💡 IdeaToPrompt
-
-AI prompt generation web application built with Java and Spring Boot.
-
-**Tech Stack:** Java • Spring Boot • MySQL • JPA/Hibernate • HTML • CSS • Bootstrap
-
----
 
 ### 🛠️ HelpNow
 
