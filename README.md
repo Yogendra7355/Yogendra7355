@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Yogendra Singh
 
-<!--
-**Yogendra7355/Yogendra7355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Engineering Student | Java Developer | Spring Boot | Python | c++ | c
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about building practical software applications and continuously improving my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 B.Tech in Computer Science Engineering
+- 💻 Learning Java, Spring Boot, Python & SQL
+- 🌱 Currently improving my Data Structures & Algorithms skills
+- 🚀 Interested in Backend Development, Web Development & Data Analytics
+- 🔨 Building real-world projects to strengthen my development skills
+- 📍 India
+
 -->
